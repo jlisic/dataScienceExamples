@@ -1,6 +1,6 @@
-======================================
+========
 R and Python examples for Data Science
-======================================
+========
 
 This is an example of R, Python, and hopefully soon SAS and Scala examples to do Data Science tasks.
 These tasks include:
