@@ -1,4 +1,3 @@
-========
 R and Python examples for Data Science
 ========
 
